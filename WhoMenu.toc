@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Who Menu
+## Notes: Adds Who to the right-click menu of a player's portrait or name, in chat and in the roster lists. /whomenu
+## Version: 1.0
+## IconTexture: Interface\AddOns\WhoMenu\icon.tga
+## Category: |cffffb347Homebrew|r
+
+WhoMenu.lua
